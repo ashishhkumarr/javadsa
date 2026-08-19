@@ -5,7 +5,14 @@ public class Main {
 
         for(int row = 1; row <= n; row++){
 
-            for(int col = 1; col <= (n-row)+1; col++){
+            //spaces
+
+            for(int spaces = 1; spaces <= (n-row); spaces++){
+                System.out.print("  ");
+            }
+
+            //pattern-stars
+            for(int col = 1; col <= (2*row)-1; col++){
                 System.out.print("* ");
             }
 
