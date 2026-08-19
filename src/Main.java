@@ -5,23 +5,27 @@ public class Main {
 
         for(int row = 1; row <= n; row++){
 
-            //spaces
+            //pattern - hollow triangle
 
-            for(int spaces = 1; spaces <= (row-1); spaces++){
-                System.out.print("  ");
-            }
+            if(row == 1 || row == 2 || row == n) {
+                for (int col = 1; col <= row; col++) {
+                    System.out.print("* ");
+                }
 
-            //pattern-stars
-            for(int col = 1; col <= (2*n-row)-(row-1); col++){
+            } else {
+
                 System.out.print("* ");
+
+                for (int col = 1; col <= row-2; col++) {
+                    System.out.print("  ");
+                }
+
+                System.out.print("* ");
+
             }
 
             System.out.println();
         }
-
-
-
-
 
     }
 }
