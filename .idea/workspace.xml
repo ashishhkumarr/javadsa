@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="hollow right angle triangle">
+    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="hollow pyramid pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1787139366299</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hollow pyramid pattern">
+      <created>1787141740856</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787141740856</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +111,7 @@
     <MESSAGE value="solid pyramid pattern" />
     <MESSAGE value="inverted solid pyramid pattern" />
     <MESSAGE value="hollow right angle triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="hollow right angle triangle" />
+    <MESSAGE value="hollow pyramid pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="hollow pyramid pattern" />
   </component>
 </project>

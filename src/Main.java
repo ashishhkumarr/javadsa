@@ -7,20 +7,17 @@ public class Main {
 
             //pattern - hollow triangle
 
-            if (row == 1) {
+            //part 1 - spaces
+            for (int space = 1; space <= n - row; space++) {
+                System.out.print("  ");
+            }
 
-                for (int space = 1; space <= n - row; space++) {
-                    System.out.print("  ");
+            if (row == 1 || row == n) {
+                for (int col = 1; col <= 2*row-1; col++) {
+                    System.out.print("* ");
                 }
 
-                System.out.print("* ");
-
-            } else if (row <= n - 1) {
-
-                // space
-                for (int space = 1; space <= n - row; space++) {
-                    System.out.print("  ");
-                }
+            } else {
 
                 //start
                 System.out.print("* ");
@@ -33,10 +30,6 @@ public class Main {
                 //end
                 System.out.print("* ");
 
-            } else {
-                for (int col = 1; col <= 2*n-1; col++) {
-                    System.out.print("* ");
-                }
             }
 
             System.out.println();
