@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="alphabet triangle pattern">
+    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="inverted alphabet triangle pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NumberPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1787325122480</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="inverted alphabet triangle pattern">
+      <created>1787329733586</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1787329733586</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="number pattern" />
     <MESSAGE value="floyd's triangle pattern" />
     <MESSAGE value="alphabet triangle pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="alphabet triangle pattern" />
+    <MESSAGE value="inverted alphabet triangle pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="inverted alphabet triangle pattern" />
   </component>
 </project>

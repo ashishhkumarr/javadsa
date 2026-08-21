@@ -27,25 +27,27 @@ public class NumberPattern {
 
            // System.out.println('A' - 1);
 
-//            // Alphabet Triangle Pattern
-//            for(int row = 1; row <= n; row++){
-//
-//                for(int col = 1; col <= row; col++){
-//                    int a = col + ('A' - 1);
-//                    System.out.print((char)(a) + " ");
-//                }
-//                System.out.println();
-//            }
-
-            // --------- Inverted Alphabet Triangle Pattern --------- //
+            // Alphabet Triangle Pattern
             for(int row = 1; row <= n; row++){
 
-                for(int col = 1; col <= (n-row)+1; col++){
-                    int a = col + ('A' - 1);
+                for(int col = 1; col <= row; col++){
+                    int a = n-row + 'A';
                     System.out.print((char)(a) + " ");
                 }
                 System.out.println();
             }
+
+//            // --------- Inverted Alphabet Triangle Pattern --------- //
+//            for(int row = 1; row <= n; row++){
+//
+//                for(int col = 1; col <= row; col++){
+//                    int a = col + ('A' + 3);
+//                    System.out.print((char)(a) + " ");
+//
+//
+//                }
+//                System.out.println();
+//            }
 
         }
     }
