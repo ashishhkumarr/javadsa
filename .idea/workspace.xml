@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="number pattern">
+    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="floyd's triangle pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NumberPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPattern.java" afterDir="false" />
     </list>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1787217798442</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="floyd's triangle pattern">
+      <created>1787219688855</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1787219688855</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +166,7 @@
     <MESSAGE value="hollow diamond pattern" />
     <MESSAGE value="butterfly pattern" />
     <MESSAGE value="number pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="number pattern" />
+    <MESSAGE value="floyd's triangle pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="floyd's triangle pattern" />
   </component>
 </project>
