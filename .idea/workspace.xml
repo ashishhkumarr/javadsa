@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="inverted alphabet triangle pattern">
+    <list default="true" id="ec04e5c7-da93-432f-8bb7-61ea0812e2e0" name="Changes" comment="Number Pyramid Pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1787329733586</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Symmetric Number Pyramid Pattern">
+      <created>1787336985048</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1787336985048</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Number Pyramid Pattern">
+      <created>1787337242136</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1787337242136</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +197,8 @@
     <MESSAGE value="floyd's triangle pattern" />
     <MESSAGE value="alphabet triangle pattern" />
     <MESSAGE value="inverted alphabet triangle pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="inverted alphabet triangle pattern" />
+    <MESSAGE value="Symmetric Number Pyramid Pattern" />
+    <MESSAGE value="Number Pyramid Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number Pyramid Pattern" />
   </component>
 </project>
